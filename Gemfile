@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'csv'
+    gem 'bigdecimal'
     gem 'github-pages'
     gem 'jekyll'
     gem 'jekyll-email-protect'
