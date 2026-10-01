@@ -22,7 +22,8 @@ Kenta URANO is an assistant professor at Graduate School of Engineering at Nagoy
 
 Research topics:
 
-* Indoor localization with BLE
+* Indoor localization
+* Autonomous robotics
 * Demand estimation using people-flow data
 * Activity recognition
 * Entertainment computing with biosensing
@@ -36,6 +37,17 @@ Education:
 * School of Engineering, Nagoya University  
   (Apr. 2012 - Mar. 2016)
 
-Work
+Work:
 
 * Internship (firmware engineer), mplusplus Co.,Ltd. (2019)
+
+Review:
+
+- 情報処理学会論文誌
+- 情報処理学会デジタルプラクティス
+- 電気学会論文誌
+- ACM IMWUT
+- IEEE Trans. on Intelligent Transportation Systems
+- IEEE Sensors
+- ACM Ubicomp Workshop
+- IEEE SMC
